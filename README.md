@@ -4,6 +4,6 @@
 
 || Tech-stack ||
 
-[![My Skills](https://skillicons.dev/icons?i=ts,vue,css,vscode&perline=4)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=ts,vue,css&perline=4)](https://skillicons.dev) 
 
-🔗: 
+🔗: https://joelsweatherapp.netlify.app/
